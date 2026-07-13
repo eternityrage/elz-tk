@@ -974,5 +974,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-d67c6ab1-0ba9-49c4-89c6-85518b971848.mp4",
+        "metadata": {
+            "title": "Elizabeth Olsen's Funniest Talk Show Moments Compilation",
+            "description": "Fashion has never seen a powerhouse quite like Elizabeth Olsen. Each red carpet appearance is a masterclass in style \u2014 from sci-fi glam at the Dune premiere to Old Hollywood elegance at the Oscars. She works with Law Roach to create moments that define fashion history. The buzz cut with the Vera Wang gown. The Joan of Arc armor at the Met. The wet hair corset look. Every single time, she takes risks and every single time, she delivers. Comment which Elizabeth Olsen look is your favorite! \ud83d\udc57 #elizabetholsen #fashionicon #style #redcarpet #lawroach #metgala #highfashion #celebritystyle #couture #elizabetholsenstyle #fashiongoals #iconic",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
