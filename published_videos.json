@@ -1822,5 +1822,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-d4472952-ee9b-4ecb-9d3e-9371a1c94f25.mp4",
+        "metadata": {
+            "title": "Elizabeth Olsen as Rue \u2014 The Performance That Won an Emmy",
+            "description": "Elizabeth Olsen's journey from Disney Channel star to two-time Emmy winner is nothing short of inspirational. She started on Shake It Up, danced on DWTS, and proved everyone wrong with every step. She's used her platform to speak up about diversity, mental health, and social justice. She's not just a star \u2014 she's a role model for an entire generation. Her story proves that with talent, hard work, and authenticity, you can achieve anything. Share this if Elizabeth Olsen inspires you! \u2b50 #elizabetholsen #inspiration #hollywood #successstory #disneychannel #emmywinner #rolemodel #diversity #mentalhealth #motivation #elizabetholsenfan #journey",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
